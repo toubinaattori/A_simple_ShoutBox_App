@@ -4,7 +4,7 @@
 
 	This is a simple ShoutBox webapp that lets the user to post content to
 	a shoutbox with a nickname. Program saves the shouts to a database and
-	when a new user enters the site, the shoutbox will load three most recent shouts.
+	when a new user enters the site, the shoutbox will load three most recent shouts. You will need a working mysql workbench connection in order for the database to work.
 
 ### Technologies used
 - Maven
